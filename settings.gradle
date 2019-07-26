@@ -1,0 +1,1 @@
+include ':app', ':mvicore_feature_test'
